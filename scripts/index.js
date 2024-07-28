@@ -40,7 +40,7 @@ else if(computerMove==='scissors'){
 }
 
 
-else if (playerMove==='Paper'){
+else if (playerMove==='paper'){
     
 
 if(computerMove==='rock'){
