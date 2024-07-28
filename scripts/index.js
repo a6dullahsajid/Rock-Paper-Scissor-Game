@@ -92,8 +92,8 @@ else if(computerMove==='scissors'){
 
    document.querySelector('.js-moves').
    innerHTML=`You
-    <img src="./icons/${playerMove}-emoji.png" class="move-icon">
-    <img src="./icons/${computerMove}-emoji.png" class="move-icon">
+    <img src="/icons/${playerMove}-emoji.png" class="move-icon">
+    <img src="/icons/${computerMove}-emoji.png" class="move-icon">
     computer`;
 
  
